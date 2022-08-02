@@ -6,8 +6,8 @@ My solution contains the following
 Tables:
   - Business Unit
     - Custom Fields
-      - Teams ID <- ID for Team to post about sales
-      - Teams Channel ID - ID for Channel to post about sales
+      - **Teams ID** <- ID for Team to post about sales
+      - **Teams Channel** ID - ID for Channel to post about sales
     - Custom Form
       - Business Unit main form <- Only to show the custom fields above
   - Opportunity
