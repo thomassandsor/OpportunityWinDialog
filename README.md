@@ -6,7 +6,10 @@ My solution contains the following
 Tables:
   - Business Unit
     - Custom Fields
-      - Teams ID
-      - Teams Channel ID
-
-  Opportunity
+      - Teams ID <- ID for Team to post about sales
+      - Teams Channel ID - ID for Channel to post about sales
+    - Custom Form
+      - Business Unit main form <- Only to show the custom fields above
+  - Opportunity
+    - Commands
+      - Close as Won <- Action to close the Opportunity    
