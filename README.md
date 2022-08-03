@@ -12,7 +12,7 @@ Tables:
       - **Business Unit main form** <- Only to show the custom fields above
   - Opportunity
     - Commands
-      - **Close as Won** <- Action to close the Opportunity    
+      - **Close as Won** <- Button to close the Opportunity    
   - Web Resources
     - JavaScript
       - **Opportunity Button WIN** <- Javascript to opent he Custom Page    
@@ -20,4 +20,11 @@ Tables:
       - **Sales Win Icon** <- Icon for the ribbon bar
   - Component Libraries
     - **SalesWin_DefaultCommandLibrary** <- Ribbon for the application
-  
+   - Pages
+    - **Sales Win** <- Custom Page for closing the Opportunity
+   - Processes
+    - **Action - CloseOppty** <- Action for closing the Opportunity
+   - Clowd Flows
+    - **CloseOpptyPostTeams** <- Flow for closing the Opportunity and posting to teams
+   - Apps
+    - **Sales Win** <- A custom app just to display the entities needed to try out the solution
