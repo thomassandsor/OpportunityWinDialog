@@ -20,11 +20,11 @@ Tables:
       - **Sales Win Icon** <- Icon for the ribbon bar
   - Component Libraries
     - **SalesWin_DefaultCommandLibrary** <- Ribbon for the application
-   - Pages
+  - Pages
     - **Sales Win** <- Custom Page for closing the Opportunity
-   - Processes
+  - Processes
     - **Action - CloseOppty** <- Action for closing the Opportunity
-   - Clowd Flows
+  - Clowd Flows
     - **CloseOpptyPostTeams** <- Flow for closing the Opportunity and posting to teams
-   - Apps
+  - Apps
     - **Sales Win** <- A custom app just to display the entities needed to try out the solution
