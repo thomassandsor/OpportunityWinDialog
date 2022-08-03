@@ -5,6 +5,9 @@ Welcome to the Custom Page Opportunity Close dialog for Dynamics 365. I always t
 ## Custom Page Close Dialog
 ![Demo close dialog](/DialogOpenClose.gif)
 
+## Post to Teams Adaptive Card
+![Demo close dialog](/DialogOpenClose.gif)
+
 My solution contains the following
 Tables:
   - Business Unit
