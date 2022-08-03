@@ -3,7 +3,7 @@
 Welcome to the Custom Page Opportunity Close dialog for Dynamics 365. I always thought the OOTB dialog was extremely booring, so I decided to find a different (and more fun) way to close Opportunities in Dynamics 🙏
 
 ## Custom Page Close Dialog
-![Demo close dialog](/)
+![Demo close dialog](/DialogOpenClose.gif)
 
 My solution contains the following
 Tables:
