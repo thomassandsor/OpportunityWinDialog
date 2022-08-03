@@ -18,8 +18,6 @@ Tables:
       - **Opportunity Button WIN** <- Javascript to opent he Custom Page    
     - Images
       - **Sales Win Icon** <- Icon for the ribbon bar
-  - Component Libraries
-    - **SalesWin_DefaultCommandLibrary** <- Ribbon for the application
   - Pages
     - **Sales Win** <- Custom Page for closing the Opportunity
   - Processes
@@ -28,3 +26,9 @@ Tables:
     - **CloseOpptyPostTeams** <- Flow for closing the Opportunity and posting to teams
   - Apps
     - **Sales Win** <- A custom app just to display the entities needed to try out the solution
+  - Connection References
+    - **Microsoft Teams SalesWin** <- Connection Reference for the Teams connector
+  - Site Map
+    - **Sales Win** <- Ribbon for the application
+  - Component Libraries
+    - **SalesWin_DefaultCommandLibrary** <- No idea what this is
