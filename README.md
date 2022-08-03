@@ -6,7 +6,7 @@ Welcome to the Custom Page Opportunity Close dialog for Dynamics 365. I always t
 ![Demo close dialog](/DialogOpenClose.gif)
 
 ## Post to Teams Adaptive Card
-![Demo close dialog](/DialogOpenClose.gif)
+![Demo close dialog](/GifWinFinal.gif)
 
 My solution contains the following
 Tables:
